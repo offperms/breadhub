@@ -22,15 +22,18 @@ local FirstButton = FirstPage.AddButton("Bafb Script (Auto Build)", function()
 
 end)
 
-
-
-local FirstButton = FirstPage.AddButton("Saiama Game Script", function()
+local FirstButton = FirstPage.AddButton("Bafb Script (Auto Build)", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/max2007killer/auto-build-not-limit/main/autobuild.txt"))()
 
 end)
 
+local FirstButton = FirstPage.AddButton("Saiama Game Script", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/saitama"))()
+
+end)
+
 local FirstButton = FirstPage.AddButton("Mps Game's Script", function()
-    loadstring(game:HttpGet("https://github.com/offperms/you-know/blob/main/yep"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/offperms/funnymps/main/scro%5Bt"))()
 
 end)
 
