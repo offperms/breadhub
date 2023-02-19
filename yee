@@ -43,10 +43,28 @@ local FirstButton = FirstPage.AddButton("Tds Commander Chain Script", function()
 end)
 
 local FirstButton = FirstPage.AddButton("Da Hood Script", function()
-    -- / / V to open and close
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
 
 end)
+
+local FirstButton = FirstPage.AddButton("Dragon Ball Rage Script", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xpa1n/Scripts/main/DBR.lua"))()
+
+end)
+
+local FirstButton = FirstPage.AddButton("King Legacy Script", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/offperms/gffff/main/greag", true))()
+
+end)
+
+local FirstButton = FirstPage.AddButton("Drive Empire Script", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WindyKung/WindyWare/main/MainScript/DrivingEmpire.lua"))()
+
+
+end)
+
 
 local FirstButton = FirstPage.AddButton("Da Hood AimLock Script (Q)", function()
 getgenv().Prediction = 0.2
