@@ -264,7 +264,7 @@ getgenv().Prediction = 0.157
 
 end)
 
-local FirstButton = FirstPage.AddButton("Da Hood AimLock Script (C) Best", function()
+local FirstButton = FirstPage.AddButton("Da Hood AimLock Script (2)", function()
 -- main aimlock settings
 local configs = {
     main = {
